@@ -1,0 +1,35 @@
+Typeterms
+
+Paletton - color visualizer
+
+Google Fonts
+
+
+https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+
+
+Flexbox - for images 
+
+w3schools - CSS Reference Browser Support -> Check if features are supported by all browesers
+caniuse.com --> Check if features are supported by all browesers
+
+Mailchimp help: https://mailchimp.com/en/help/add-a-signup-form-to-your-website/
+
+
+Creative Tim - Bootstrap themes
+
+mashup-templates
+
+
+
+
+
+
+
+
+
+
+
+
+
+sharedRSVP1303
